@@ -1,4 +1,4 @@
-![Pixel Dawn Banner](https://i.imgur.com/1LTKrql.png)
+![Pixel Dawn Banner](https://i.imgur.com/pYBMlOX.png)
 
 ## 👋 Hello, we are Pixel Dawn!
 
