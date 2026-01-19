@@ -1,4 +1,4 @@
-![Pixel Dawn Banner](https://i.imgur.com/pYBMlOX.png)
+![Pixel Dawn Banner](https://raw.githubusercontent.com/Pixel-Dawn-Collective/pixel-dawn-collective.github.io/refs/heads/main/images/banner.png?raw=true)
 
 ## 👋 Hello, we are Pixel Dawn!
 
